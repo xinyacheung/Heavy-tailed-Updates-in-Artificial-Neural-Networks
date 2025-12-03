@@ -1,5 +1,4 @@
-# This repository is for the under review manuscript "Heavy-tailed update arises from information-driven self-organization in non-equilibrium learning"
-
+# Heavy-tailed Updates in Artificial Neural Networks
 
 This repository contains training scripts, weight update tracking, perturbation analysis, and information-theoretic validation tools for studying non-equilibrium learning behavior in neural networks.
 
