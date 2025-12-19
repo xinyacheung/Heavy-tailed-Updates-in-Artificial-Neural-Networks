@@ -1,4 +1,5 @@
-# Heavy-tailed Updates in Artificial Neural Networks
+# [Heavy-tailed Updates in Artificial Neural Networks](https://www.pnas.org/doi/10.1073/pnas.2523012122)
+Xin-Ya Zhang and Chao Tang. PNAS, 2025.
 
 This repository contains training scripts, weight update tracking, perturbation analysis, and information-theoretic validation tools for studying non-equilibrium learning behavior in neural networks.
 
